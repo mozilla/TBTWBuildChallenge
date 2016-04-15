@@ -1,6 +1,6 @@
 # Take Back The Web Build Technology Challenge
 
-This is the submission area for Take Back The Web teams Build Technology Challenge. 
+Note: This is the submission area for Take Back The Web teams entering their ideas into the Build Technology Challenge. 
 
 Your challenge, if you choose to accept it, is to design a prototype of a powerful tool that will help people understand why privacy and security is important online. 
 
