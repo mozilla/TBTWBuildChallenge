@@ -1,4 +1,4 @@
-#Template for Submission
+# Build Technology Idea Submission
 *Please answer all of the questions below.*
 * Team Name: 
 
